@@ -8,6 +8,5 @@ Solo algunos puntos.
 • Lea una matriz de F * C números enteros.</br>
 • Dada la matriz leída en el punto anterior, obtenga un vector de C elementos
 con los promedios de cada columna.</br>
-</br>
 • A partir de la matriz leída en el punto anterior, obtenga un vector de F
-elementos con los valores mínimos de cada fila.
+elementos con los valores mínimos de cada fila.</br>
