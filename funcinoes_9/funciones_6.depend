@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1726425624 source:c:\users\nahuel\documents\proyectos\proc\funciones_6\main.c
+	<stdio.h>
+	<stdlib.h>
+	"leerValores.h"
+	"mostrarValores.h"
+
+1726424175 c:\users\nahuel\documents\proyectos\proc\funciones_6\leervalores.h
+
+1726452115 c:\users\nahuel\documents\proyectos\proc\funciones_6\mostrarvalores.h
+
