@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1726686903 source:c:\users\nahuel\documents\proyectos\proc\funcinoes_10\main.c
+	<stdio.h>
+	<stdlib.h>
+	"opcion_menu.h"
+
+1726686830 c:\users\nahuel\documents\proyectos\proc\funcinoes_10\opcion_menu.h
+
