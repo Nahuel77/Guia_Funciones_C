@@ -10,3 +10,6 @@ Solo algunos puntos.
 con los promedios de cada columna.</br>
 • A partir de la matriz leída en el punto anterior, obtenga un vector de F
 elementos con los valores mínimos de cada fila.</br>
+</br>
+10. Realizar una función que presente el menú de opciones y que, el usuario tenga la
+posibilidad de elegir tantas opciones como desee hasta que elija la opción salir.</br>
