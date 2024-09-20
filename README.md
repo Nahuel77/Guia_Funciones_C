@@ -13,3 +13,6 @@ elementos con los valores mínimos de cada fila.</br>
 
 10. Realizar una función que presente el menú de opciones y que, el usuario tenga la
 posibilidad de elegir tantas opciones como desee hasta que elija la opción salir.</br>
+
+12.Escribir una función que permita elevar un número real X a una potencia entera
+W.</br>
