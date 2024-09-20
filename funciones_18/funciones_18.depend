@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1726873541 source:c:\users\nahuel\documents\proyectos\proc\funciones_18\main.c
+	<stdio.h>
+	<stdlib.h>
+	"concatenador.h"
+
+1726874017 c:\users\nahuel\documents\proyectos\proc\funciones_18\concatenador.h
+	<stdio.h>
+	<string.h>
+
