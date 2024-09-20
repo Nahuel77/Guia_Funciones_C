@@ -22,3 +22,7 @@ Solo algunos puntos.
 • Superficie de una esfera de radio r (4 ¶ r2).</br>
 • Superficie de una circunferencia de radio r (¶ r2).</br>
 • Perímetro de una circunferencia de radio r (2 ¶ r).</br>
+
+16 Resolver los siguientes Ítems:
+• Escribir una función que devuelva un número aleatorio en un rango a elección del operador. Utilizar la función rand () y srand ().
+• Desarrollar un programa que invocando a la función definida en el ejercicio anterior genere N números aleatorios.
