@@ -12,3 +12,5 @@ Solo algunos puntos.
 10 Realizar una función que presente el menú de opciones y que, el usuario tenga la posibilidad de elegir tantas opciones como desee hasta que elija la opción salir.</br>
 
 12 Escribir una función que permita elevar un número real X a una potencia entera W.</br>
+
+13 Escribir un programa, que mediante una función, dados valores reales de a, de x y de b, evalúe el siguiente polinomio: P(x) = ax2 + bx3 (utilizar la función definida en el punto 12).</br>
