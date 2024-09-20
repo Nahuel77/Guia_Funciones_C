@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1726867476 source:c:\users\nahuel\documents\proyectos\proc\funciones_16\main.c
+	<stdio.h>
+	<stdlib.h>
+	"random_num.h"
+
+1726867440 c:\users\nahuel\documents\proyectos\proc\funciones_16\random_num.h
+

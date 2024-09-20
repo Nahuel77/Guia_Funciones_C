@@ -1,0 +1,20 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include "random_num.h"
+
+int random_num(int min, int max);
+
+//aleatorio=min+(rand()%(max−min+1))
+
+int main()
+{
+    int min, max, n;
+    printf("Ingrese el rango de numeros aleatorios.\n");
+    printf("Minimo:\n");
+    scanf("%d", &min);
+    printf("Maximo:\n");
+    scanf("%d", &max);
+    n=random_num(min, max);
+    printf("Numero aleatorio generado: %d", n);
+    return 0;
+}
