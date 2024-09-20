@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1726858277 source:c:\users\nahuel\documents\proyectos\proc\funciones_15\main.c
+	<stdio.h>
+	<stdlib.h>
+	"volumen_esfera.h"
+
+1726858135 c:\users\nahuel\documents\proyectos\proc\funciones_15\volumen_esfera.h
+	<math.h>
+
