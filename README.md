@@ -28,3 +28,6 @@ Solo algunos puntos.
 • Desarrollar un programa que invocando a la función definida en el ejercicio anterior genere N números aleatorios.</br>
 
 17 Desarrollar una función tal que dada una cadena de caracteres, la devuelva en mayúsculas.</br>
+
+18 Dado un arreglo donde cada elemento se halla en el rango 0..9, retornar el valor decimal formado por la concatenación de todos los elementos del arreglo. Ej.: [1 2 4 0 9] devuelve 12409.</br>
+
