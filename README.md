@@ -16,3 +16,9 @@ Solo algunos puntos.
 13 Escribir un programa, que mediante una función, dados valores reales de a, de x y de b, evalúe el siguiente polinomio: P(x) = ax2 + bx3 (utilizar la función definida en el punto 12).</br>
 
 14 Desarrollar una función para obtener el valor de la multiplicación de dos enteros utilizando sumas sucesivas.</br>
+
+15 Realizar un programa que, dado un valor real r y una opción dentro del siguiente menú, calcule las siguientes medidas solicitadas mediante funciones:</br>
+• Volumen de una esfera de radio r (4/3 ¶ r3).
+• Superficie de una esfera de radio r (4 ¶ r2).
+• Superficie de una circunferencia de radio r (¶ r2).
+• Perímetro de una circunferencia de radio r (2 ¶ r).
