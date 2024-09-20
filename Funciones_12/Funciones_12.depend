@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1726809384 source:c:\users\nahuel\documents\proyectos\proc\funciones_12\main.c
+	<stdio.h>
+	<stdlib.h>
+	"potenciar.h"
+
+1726809803 c:\users\nahuel\documents\proyectos\proc\funciones_12\potenciar.h
+
