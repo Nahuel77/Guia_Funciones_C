@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1726870018 source:c:\users\nahuel\documents\proyectos\proc\funciones_17\main.c
+	<stdio.h>
+	<stdlib.h>
+	"mayus.h"
+
+1726870272 c:\users\nahuel\documents\proyectos\proc\funciones_17\mayus.h
+	<string.h>
+
