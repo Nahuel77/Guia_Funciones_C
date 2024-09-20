@@ -26,3 +26,5 @@ Solo algunos puntos.
 16 Resolver los siguientes Ítems:</br>
 • Escribir una función que devuelva un número aleatorio en un rango a elección del operador. Utilizar la función rand () y srand ().</br>
 • Desarrollar un programa que invocando a la función definida en el ejercicio anterior genere N números aleatorios.</br>
+
+17 Desarrollar una función tal que dada una cadena de caracteres, la devuelva en mayúsculas.</br>
