@@ -14,3 +14,5 @@ Solo algunos puntos.
 12 Escribir una función que permita elevar un número real X a una potencia entera W.</br>
 
 13 Escribir un programa, que mediante una función, dados valores reales de a, de x y de b, evalúe el siguiente polinomio: P(x) = ax2 + bx3 (utilizar la función definida en el punto 12).</br>
+
+14 Desarrollar una función para obtener el valor de la multiplicación de dos enteros utilizando sumas sucesivas.</br>
