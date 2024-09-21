@@ -18,10 +18,10 @@ Solo algunos puntos.
 14 Desarrollar una función para obtener el valor de la multiplicación de dos enteros utilizando sumas sucesivas.</br>
 
 15 Realizar un programa que, dado un valor real r y una opción dentro del siguiente menú, calcule las siguientes medidas solicitadas mediante funciones:</br>
-• Volumen de una esfera de radio r (4/3*π*r^3).</br>
-• Superficie de una esfera de radio r (4*π*r^2).</br>
-• Superficie de una circunferencia de radio r (π*r^2).</br>
-• Perímetro de una circunferencia de radio r (2*π*r).</br>
+• Volumen de una esfera de radio r (4/3 * π * r^3).</br>
+• Superficie de una esfera de radio r (4 * π * r^2).</br>
+• Superficie de una circunferencia de radio r (π * r^2).</br>
+• Perímetro de una circunferencia de radio r (2 * π * r).</br>
 
 16 Resolver los siguientes Ítems:</br>
 • Escribir una función que devuelva un número aleatorio en un rango a elección del operador. Utilizar la función rand () y srand ().</br>
