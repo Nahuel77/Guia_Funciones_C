@@ -11,8 +11,17 @@ int main()
     scanf("%d", &a);
     printf("Ingrese un exponente.\n");
     scanf("%d", &b);
-    n = potenciar(a, b);
-    printf("Respuesta: %d\n", n);
+    if(b==0){
+        printf("Respuesta: 1\n");
+    }else{
+        n = potenciar(a, b);
+        if(b<0){
+            printf("Respuesta: 1/%d\n", n);
+        }else{
+            n = potenciar(a, b);
+            printf("Respuesta: %d\n", n);
+        }
+    }
     system("pause");
     return 0;
 }
