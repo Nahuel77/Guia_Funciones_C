@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1726898298 source:c:\users\nahuel\documents\proyectos\proc\funciones_19\main.c
+	<stdio.h>
+	<stdlib.h>
+	"isin.h"
+
+1726897695 c:\users\nahuel\documents\proyectos\proc\funciones_19\isin.h
+
