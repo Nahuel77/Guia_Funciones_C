@@ -31,3 +31,10 @@ Solo algunos puntos.
 
 18 Dado un arreglo donde cada elemento se halla en el rango 0..9, retornar el valor decimal formado por la concatenación de todos los elementos del arreglo. Ej.: [1 2 4 0 9] devuelve 12409.</br>
 
+19 Escribir un programa que satisfagan los siguientes objetivos utilizando funciones void() y no void() según considere más conveniente:</br>
+• Indicar si un arreglo PARTE está incluido en otro llamado GRANDE (Esto sucede si tiene todos los elementos en el mismo orden).</br>
+
+Ej: GRANDE = [1,5,6,9,1,4,8,3]</br>
+PARTE = [6,9,1,4] Esta incluido</br>
+PARTE = [6,1,9] No está incluido</br>
+
