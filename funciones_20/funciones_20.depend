@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1727049607 source:c:\users\nahuel\documents\proyectos\proc\funciones_20\main.c
+	<stdio.h>
+	<stdlib.h>
+	"get_date.h"
+	"show_date.h"
+	"date_compare.h"
+	"date_diff.h"
+
+1727047004 c:\users\nahuel\documents\proyectos\proc\funciones_20\get_date.h
+
+1727045453 c:\users\nahuel\documents\proyectos\proc\funciones_20\show_date.h
+
+1727048052 c:\users\nahuel\documents\proyectos\proc\funciones_20\date_compare.h
+
+1727050550 c:\users\nahuel\documents\proyectos\proc\funciones_20\date_diff.h
+
