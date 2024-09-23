@@ -42,7 +42,7 @@ PARTE = [6,1,9] No está incluido</br>
 • 1 si la primera fecha es anterior a la segunda y 0 en caso contrario.</br>
 • La cantidad de días entre ambas (suponer que los meses tienen 30 días y los años 360 días).</br>
 
-21 <span style="color💛">En progreso</span> Escribir un programa que lea y almacene los nombres y los tiempos de 15 atletas en 3 carreras de 100 metros desarrolladas en una competencia e informe:</br>
+21 <span style="color:yellow">En progreso</span> Escribir un programa que lea y almacene los nombres y los tiempos de 15 atletas en 3 carreras de 100 metros desarrolladas en una competencia e informe:</br>
 • El nombre del atleta que obtuvo el mejor tiempo promedio.</br>
 • Dado el nombre de un atleta, informe su mejor tiempo y en qué carrera lo obtuvo (primera, segunda o tercera).</br>
 • Dado un número de carrera obtener el nombre y el tiempo del atleta vencedor.</br>
