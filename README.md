@@ -38,3 +38,6 @@ Ej: GRANDE = [1,5,6,9,1,4,8,3]</br>
 PARTE = [6,9,1,4] Esta incluido</br>
 PARTE = [6,1,9] No está incluido</br>
 
+20 Dadas dos fechas expresadas como enteros Año1-Mes1-Dia1 y Año2-Mes2-Dia2, desarrollar sendas funciones que devuelvan:</br>
+• 1 si la primera fecha es anterior a la segunda y 0 en caso contrario.</br>
+• La cantidad de días entre ambas (suponer que los meses tienen 30 días y los años 360 días).</br>
