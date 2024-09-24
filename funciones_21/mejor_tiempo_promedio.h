@@ -1,6 +1,5 @@
 void mejor_tiempo_promedio(char atletas[15][100], int t_carrera_a[15], int t_carrera_b[15], int t_carrera_c[15])
 {
-    //NOTA: NO ESTA CALCULANDO BIEN EL MEJOR TIEMPO. SEGUIR A PARTIR DE AQUI
     int i, j=0, n=0, n2=0, prom[15], pos[15];
     for(i=0; i<14; i++)
     {

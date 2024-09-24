@@ -1,5 +1,6 @@
 void mejor_t_carrera(char atletas[15][100], int carrera[15])
 {
+    //NOTA: NO ESTA CALCULANDO BIEN EL MEJOR TIEMPO. SEGUIR A PARTIR DE AQUI
     int i, j, n, n2, prom[15], pos[15];
     for(i=0; i<14; i++)
     {
