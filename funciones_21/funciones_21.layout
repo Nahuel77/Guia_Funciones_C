@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="cargar_nombres.h" open="0" top="0" tabpos="0">
+		<Cursor position="549" topLine="0" />
+	</File>
+	<File name="cargar_tiempos.h" open="0" top="0" tabpos="0">
+		<Cursor position="514" topLine="7" />
+	</File>
+	<File name="main.c" open="1" top="0" tabpos="1">
+		<Cursor position="841" topLine="0" />
+	</File>
+	<File name="mejor_tiempo_promedio.h" open="1" top="1" tabpos="3">
+		<Cursor position="537" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>
