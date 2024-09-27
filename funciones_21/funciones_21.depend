@@ -1,11 +1,12 @@
 # depslib dependency file v1.0
-1727161977 source:c:\users\nahuel\documents\proyectos\proc\funciones_21\main.c
+1727419581 source:c:\users\nahuel\documents\proyectos\proc\funciones_21\main.c
 	<stdio.h>
 	<stdlib.h>
 	"cargar_nombres.h"
 	"cargar_tiempos.h"
 	"mejor_tiempo_promedio.h"
 	"consultar_atleta.h"
+	"consultar_carrera.h"
 
 1727056855 c:\users\nahuel\documents\proyectos\proc\funciones_21\cargar_nombres.h
 	<string.h>
@@ -14,8 +15,13 @@
 
 1727065699 c:\users\nahuel\documents\proyectos\proc\funciones_21\cargar_tiempos.h
 
-1727121738 c:\users\nahuel\documents\proyectos\proc\funciones_21\mejor_tiempo_promedio.h
+1727207835 c:\users\nahuel\documents\proyectos\proc\funciones_21\mejor_tiempo_promedio.h
 
-1727205254 c:\users\nahuel\documents\proyectos\proc\funciones_21\consultar_atleta.h
+1727205659 c:\users\nahuel\documents\proyectos\proc\funciones_21\consultar_atleta.h
 	<string.h>
+
+1727207632 c:\users\nahuel\documents\proyectos\proc\funciones_21\consultar_carrera.h
+	"mejor_t_carrera.h"
+
+1727421221 c:\users\nahuel\documents\proyectos\proc\funciones_21\mejor_t_carrera.h
 

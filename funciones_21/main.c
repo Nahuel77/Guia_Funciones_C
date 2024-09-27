@@ -16,7 +16,7 @@ int main()
 {
     //NOTA, Para realizar pruebas mas rapidas, creé las listas de atletas y tiempos de carreras ya cargadas. Y comente las funciones que cargan estos datos.
     char atletas[15][100]={"Laura", "Pepe", "Carolina", "Mendez Juan", "Ruben", "Lorena", "Raul", "Maria", "Vero", "Nahuel", "Jorge", "Jose", "Noelia", "Johana", "Tay"};
-    int t_carrera_a[15]={56,64,53,68,51,53,67,61,53,55,68,59,66,60,58};
+    int t_carrera_a[15]={56,64,51,68,51,53,67,61,53,55,68,59,66,60,58};
     int t_carrera_b[15]={61,55,68,60,72,51,59,64,62,68,63,59,67,58,55};
     int t_carrera_c[15]={68,73,69,70,59,76,71,64,72,58,70,69,66,68,75};
     //cargar_nombres(atletas);
