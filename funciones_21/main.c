@@ -5,12 +5,14 @@
 #include "mejor_tiempo_promedio.h"
 #include "consultar_atleta.h"
 #include "consultar_carrera.h"
+#include "prmedios.h"
 
 void cargar_nombres(char atletas[15][100]);
 void cargar_tiempos(char atletas[15][100], int t_carrera_a[15], int t_carrera_b[15], int t_carrera_c[15]);
 void mejor_tiempo_promedio(char atletas[15][100], int t_carrera_a[15], int t_carrera_b[15], int t_carrera_c[15]);
 void consultar_atleta(char atletas[15][100], int t_carrera_a[15], int t_carrera_b[15], int t_carrera_c[15]);
 void consultar_carrera(char atletas[15][100], int t_carrera_a[15], int t_carrera_b[15], int t_carrera_c[15]);
+void promedios(char atletas[15][100], int t_carrera_a[15], int t_carrera_b[15], int t_carrera_c[15]);
 
 int main()
 {
@@ -25,6 +27,7 @@ int main()
     //mejor_tiempo_promedio(atletas, t_carrera_a, t_carrera_b, t_carrera_c);
     //consultar_atleta(atletas, t_carrera_a, t_carrera_b, t_carrera_c);
     consultar_carrera(atletas, t_carrera_a, t_carrera_b, t_carrera_c);
+    //promedios(atletas, t_carrera_a, t_carrera_b, t_carrera_c); //NOTA: Esta función no forma parte del problema, solo fue creada para controlar el procesamiento correcto en las otras funciones.
     system("pause");
     return 0;
 }

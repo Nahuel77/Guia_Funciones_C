@@ -1,13 +1,13 @@
 void mejor_t_carrera(char atletas[15][100], int carrera[15])
 {
-    int i, j, n, status=0, time[15], pos[15], len;
+    int i, j, n, status=0, time[15], pos[15];
     time[0]=carrera[0];
     pos[0]=0;
     for(i=0; i<14; i++)
     {
         n=carrera[i+1];
         status=0;
-        if(time[0]>n)
+        if(n<time[0])
         {
             time[0]=n;
             pos[0]=i+1;
