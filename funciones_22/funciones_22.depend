@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1727853356 source:c:\users\nahuel\documents\proyectos\proc\funciones_22\main.c
+	<stdio.h>
+	<stdlib.h>
+	"random_num.h"
+	"mas_repetido.h"
+
+1727849508 c:\users\nahuel\documents\proyectos\proc\funciones_22\random_num.h
+
+1727856403 c:\users\nahuel\documents\proyectos\proc\funciones_22\mas_repetido.h
+
