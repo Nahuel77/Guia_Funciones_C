@@ -47,4 +47,4 @@ PARTE = [6,1,9] No está incluido</br>
 • Dado el nombre de un atleta, informe su mejor tiempo y en qué carrera lo obtuvo (primera, segunda o tercera).</br>
 • Dado un número de carrera obtener el nombre y el tiempo del atleta vencedor.</br>
 
-22 ***EN PROGRESO*** Dado un arreglo de N elementos enteros, desarrollar una función para devolver el número que se repite más veces.</br>
+22 Dado un arreglo de N elementos enteros, desarrollar una función para devolver el número que se repite más veces.</br>
