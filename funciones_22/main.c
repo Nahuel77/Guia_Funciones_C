@@ -12,6 +12,7 @@ int main()
 {
     int i, n, min=0, max=10;
     int arr[N];
+    srand(time(NULL));
     printf("Numeros generados aleatoriamente:\n");
     for(i=0; i<N; i++){
         arr[i]=random_num(min, max+1);

@@ -25,6 +25,12 @@
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="mas_repetido.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="random_num.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
 		<Extensions>
 			<code_completion />
 			<debugger />

@@ -1,48 +1,64 @@
 #define N 50
 
-void mas_repetido(int arr[N], int max){
+void mas_repetido(int arr[N], int max)
+{
     int contador[max];
-    int i, j=0, n, status, pos=0, tier[max];
+    int i, j=0, n, status, pos[max], tier[max];
 
-    for(i=0; i<max; i++){
+    for(i=0; i<max; i++)
+    {
         contador[i]=0;
+        tier[i]=0;
+        pos[i]=0
+
+
+
+        ;
     }
 
-    for(i=0; i<N; i++){
+    for(i=0; i<N; i++)
+    {
         n=arr[i];
-        contador[n]=contador[n]+1;
+        contador[n]++;
     }
 
-    for(i=0; i<max; i++){
+    for(i=0; i<max; i++)//Codigo para confirmar el funcionamiento del algoritmo.
+    {
         printf("%d : %d \n", i, contador[i]);
     }
 
     tier[0]=contador[0];
 
-    for(i=1; i<max; i++){
+    for(i=1; i<max; i++)
+    {
         status=0;
-        if(contador[i]<tier[0]){
-            tier[0]=contador[i];
+        n=contador[i];
+        if(n>tier[0])
+        {
+            tier[0]=n;
             j=0;
             status=1;
-            pos=i;
-            printf("here");
+            pos[0]=i;
         }
-        if(contador[i]==tier[0]&&status==0){
+        if(n==tier[0]&&status==0)
+        {
             j++;
-            tier[j]=contador[i];
-            pos=i;
-            printf("here too");
+            tier[j]=i;
+            pos[j]=i;
         }
     }
-    printf("in %d\n", pos);
-    if(j==0){
-        printf("El numero que mas se repite es: %d\nSe repite %d veces.\n", tier[j], contador[pos]);
-    }else{
+
+    if(j==0)
+    {
+        printf("El numero que mas se repite es: %d\nSe repite %d veces.\n", pos[0], tier[0]);
+    }
+    else
+    {
         printf("Los numero que mas se repiten son:\n");
-        for(i=0; i<=j; i++){
-            printf("%d ", tier[i]);
+        for(i=0; i<=j; i++)
+        {
+            printf("\t%d ", pos[i]);
         }
-        printf("Cada uno se repite %d veces.\n", contador[pos]);
+        printf("\nCada uno se repite %d veces.\n\n", tier[0]);
     }
 }
