@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1728106549 source:c:\users\nahuel\documents\proyectos\proc\funciones_23\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ordenador.h"
+
+1728107229 c:\users\nahuel\documents\proyectos\proc\funciones_23\ordenador.h
+
