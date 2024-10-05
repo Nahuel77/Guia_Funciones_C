@@ -51,3 +51,7 @@ PARTE = [6,1,9] No está incluido</br>
 
 23 Un arreglo ORIGINAL y otro COPIA contienen los mismos elementos aunque en distinto orden.</br>
 Redistribuir los elementos de COPIA para que resulte una reproducción de ORIGINAL (suponer que todos los elementos son distintos – no se permite en la resolución copiar los elementos de ORIGINAL en COPIA).</br>
+
+24 Para dos arreglos VALORES y POSNUEVAS ambos de N elementos, se pide:</br>
+• Redistribuir los elementos de VALORES tomando los elementos de las posiciones indicadas en POSNUEVAS.</br>
+Ej: VALORES = [f b n x], POSNUEVAS = [3 2 4 1] => VALORES = [n b x f]</br>
