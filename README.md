@@ -48,3 +48,6 @@ PARTE = [6,1,9] No está incluido</br>
 • Dado un número de carrera obtener el nombre y el tiempo del atleta vencedor.</br>
 
 22 Dado un arreglo de N elementos enteros, desarrollar una función para devolver el número que se repite más veces.</br>
+
+23 Un arreglo ORIGINAL y otro COPIA contienen los mismos elementos aunque en distinto orden.</br>
+Redistribuir los elementos de COPIA para que resulte una reproducción de ORIGINAL (suponer que todos los elementos son distintos – no se permite en la resolución copiar los elementos de ORIGINAL en COPIA).</br>
